@@ -82,7 +82,7 @@ body {
 /*  X-Small devices (portrait phones, less than 576px) */
 @media (max-width: 575.98px) {
   .heroTagline {
-    font-size: 0.8rem;
+    font-size: 0.9rem;
   }
 }
 
