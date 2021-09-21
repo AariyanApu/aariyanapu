@@ -1,0 +1,122 @@
+html,
+body {
+  font-family: "Comfortaa", cursive;
+  color: #fff;
+}
+
+/* hero Section */
+
+.heroSection {
+  background-image: url(../img/bg1.jpg);
+  background-color: transparent;
+  background-size: cover;
+  background-attachment: fixed;
+  position: relative;
+  height: 680px;
+  width: 100%;
+}
+
+.heroSection .overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(255, 144, 0, 0.9);
+}
+
+.heroSectionContent {
+  margin: 10rem auto 0 auto;
+  text-align: center;
+}
+
+.heroSectionImage {
+  width: 250px;
+  border-radius: 5%;
+}
+.heroHeading {
+  font-family: "Kaushan Script", cursive;
+}
+
+/* Social Icons */
+
+.social ul {
+  list-style: none;
+  padding: 0;
+}
+.social ul li {
+  display: inline-block;
+}
+.socialIcon {
+  font-size: 2.5rem;
+  margin-right: 10px;
+  color: #fff;
+  transform: scale(1);
+}
+
+.socialIcon:hover {
+  transition: ease all 0.5s;
+  transform: scale(1.1);
+}
+
+.socialIcon.fb:hover {
+  color: #1877f2;
+}
+.socialIcon.ig:hover {
+  color: #e4405f;
+}
+.socialIcon.tw:hover {
+  color: #1da1f2;
+}
+.socialIcon.git:hover {
+  color: #171515;
+}
+
+.socialIcon.wp:hover {
+  color: #25d366;
+}
+
+/** ---------------------  Media Query ------------------- */
+/*  X-Small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+  .heroTagline {
+    font-size: 0.8rem;
+  }
+}
+
+/* Small devices (landscape phones, less than 768px) */
+@media (max-width: 767.98px) {
+}
+
+/* Medium devices (tablets, less than 992px) */
+@media (max-width: 991.98px) {
+  .heroHeading {
+    font-size: 33px;
+  }
+
+  .heroTagline {
+    font-size: 0.7rem;
+    font-weight: bold;
+  }
+  .socialIcon {
+    font-size: 1.8rem;
+  }
+}
+
+/* Large devices (desktops, less than 1200px) */
+@media (max-width: 1199.98px) {
+  .heroHeading {
+    font-size: 44px;
+  }
+
+  .heroTagline {
+    font-weight: bold;
+  }
+  .socialIcon {
+    font-size: 2.2rem;
+  }
+}
+
+/* X-Large devices (large desktops, less than 1400px) */
+@media (max-width: 1399.98px) {
+}
