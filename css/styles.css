@@ -9,10 +9,10 @@ body {
 /* hero Section */
 
 .heroSection {
-    background-image: url(../img/bg1.jpg);
-    background-color: transparent;
-    background-size: cover;
-    background-attachment: fixed;
+  background-image: url(../img/bg.jpg);
+  background-color: transparent;
+  background-size: cover;
+  background-attachment: fixed;
   position: relative;
   height: 680px;
   width: 100%;
@@ -24,7 +24,7 @@ body {
   bottom: 0;
   left: 0;
   right: 0;
-  background: rgba(255, 144, 0, 0.1);
+  background: rgba(255, 144, 0, 0.9);
 }
 
 .heroSectionContent {
@@ -81,16 +81,13 @@ body {
 /** ---------------------  Media Query ------------------- */
 /*  X-Small devices (portrait phones, less than 576px) */
 @media (max-width: 575.98px) {
-
-    .heroSection {
-        background-image: none;
-    }
-    .heroSection .overlay {
-        position: absolute;
-        background: rgba(255, 144, 0, 0.9);
-      }
-
- 
+  .heroSection {
+    background-image: none;
+  }
+  .heroSection .overlay {
+    position: absolute;
+    background: rgba(255, 144, 0, 0.9);
+  }
 }
 
 /* Small devices (landscape phones, less than 768px) */
@@ -124,12 +121,8 @@ body {
   .socialIcon {
     font-size: 2.2rem;
   }
-
 }
-
 
 /* X-Large devices (large desktops, less than 1400px) */
 @media (max-width: 1399.98px) {
-
-
 }
