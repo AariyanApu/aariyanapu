@@ -1,7 +1,6 @@
 html,
 body {
   font-family: "Comfortaa", cursive;
-  color: #fff;
   text-rendering: optimizeLegibility;
   overflow-x: hidden;
 }
@@ -14,7 +13,7 @@ body {
   background-size: cover;
   background-attachment: fixed;
   position: relative;
-  height: 680px;
+  height: 41.25rem;
   width: 100%;
 }
 
@@ -30,10 +29,11 @@ body {
 .heroSectionContent {
   margin: 10rem auto 0 auto;
   text-align: center;
+  color: #fff;
 }
 
 .heroSectionImage {
-  width: 250px;
+  width: 15.625rem;
   border-radius: 5%;
 }
 .heroHeading {
@@ -51,7 +51,7 @@ body {
 }
 .socialIcon {
   font-size: 2.5rem;
-  margin-right: 10px;
+  margin-right: 0.625rem;
   color: #fff;
   transform: scale(1);
 }
@@ -76,6 +76,112 @@ body {
 
 .socialIcon.wp:hover {
   color: #25d366;
+}
+
+/* ---------------- About Section ----------------- */
+.aboutSection {
+  padding: 60px 0;
+}
+.aboutTitle {
+  text-align: center;
+  margin: 0 0 50px 0;
+}
+
+.aboutImgSection {
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.aboutSectionImg {
+  height: 220px;
+  border-radius: 5%;
+}
+/* about Section Social Icons */
+
+.aboutSocial ul {
+  list-style: none;
+  padding: 0;
+}
+.aboutSocial ul li {
+  display: inline-block;
+}
+.aboutSocialIcon {
+  font-size: 1.5rem;
+  margin: 0.2rem;
+
+  color: #ff9000;
+  transform: scale(1);
+}
+
+.aboutSocialIcon:hover {
+  transition: ease all 0.5s;
+  transform: scale(1.1);
+}
+
+.aboutSocialIcon.fb:hover {
+  color: #1877f2;
+}
+.aboutSocialIcon.ig:hover {
+  color: #e4405f;
+}
+.aboutSocialIcon.tw:hover {
+  color: #1da1f2;
+}
+.aboutSocialIcon.git:hover {
+  color: #171515;
+}
+
+.aboutSocialIcon.wp:hover {
+  color: #25d366;
+}
+
+.aboutSectionText {
+  margin-top: 2rem;
+  width: 85%;
+  text-align: justify;
+}
+
+/* -------------- cv download-------- */
+
+.btn-bar {
+  padding-top: 10px;
+}
+.btn-bar a {
+  color: #363330;
+  font-size: 25px;
+  line-height: 1;
+  position: relative;
+  text-decoration: none;
+  padding-left: 0;
+  transition: ease all 0.45s;
+}
+
+.btn-bar a:after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  margin: auto;
+  widows: 0;
+  height: 2px;
+  background: currentColor;
+  transition: ease all 0.45s;
+}
+
+.btn-bar a:hover {
+  padding-left: 45px;
+  color: #e48100;
+}
+
+.btn-bar a:hover:after {
+  width: 40px;
+}
+
+.btn1 a {
+  font-size: 18px;
+  padding: 5px 0px;
+  text-decoration: none;
 }
 
 /** ---------------------  Media Query ------------------- */
