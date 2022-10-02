@@ -1,6 +1,6 @@
 ## HI! I'm
 #  Aariyan Hasan Apu 
-#### Web Developer || Trainer || Freelancer
+Web Developer || Programmer || Freelancer
 
 
 <div id="header" align="center">
