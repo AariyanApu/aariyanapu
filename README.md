@@ -36,8 +36,8 @@
 
 |    |            |
 |----------|:-------------:|
-| ![](https://github-readme-stats.vercel.app/api?username=aariyanapu&theme=darcula&hide_border=false&include_all_commits=true&count_private=true) |  ![](https://github-readme-streak-stats.herokuapp.com/?user=aariyanapu&theme=darcula&hide_border=false) |
-| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aariyanapu&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact) | [![Aariyan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aariyanapu&show_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
+| ![](https://github-readme-stats.vercel.app/api?username=aariyanapu&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true) |  ![](https://github-readme-streak-stats.herokuapp.com/?user=aariyanapu&theme=material-palenight&hide_border=false) |
+| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aariyanapu&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&layout=compact) | [![Aariyan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aariyanapu&show_icons=true&theme=material-palenight&hide_border=false)]
  |
 
 ---
