@@ -79,12 +79,14 @@
 
 | | |
 |----------|:-------------:|
-| <a href="https://twitter.com/aariyanapu" target="blank"><img src="https://img.shields.io/twitter/follow/aariyanapu?logo=twitter&style=for-the-badge" alt="aariyanapu" /></a>  |[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/aariyan.apu) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aariyan.apu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aariyanapu) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Aariyan-Apu) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12180960) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/aariyanapu) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/UC4PR3LDMm61eJu0KMmy1N3w) 
+| <a href="https://twitter.com/aariyanapu" target="blank"><img src="https://img.shields.io/twitter/follow/aariyanapu?logo=twitter&style=for-the-badge" alt="aariyanapu" /></a>  |[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/aariyan.apu) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aariyan.apu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aariyanapu) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Aariyan-Apu) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12180960) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/aariyanapu)  
 
 ---
 
 <h2 align="center">💰 You can help me by Donating</h2>
   <p align="center" ><a href="https://www.buymeacoffee.com/aariyanapu"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aariyanapu" /></a></p>
+
+
 
 
 
