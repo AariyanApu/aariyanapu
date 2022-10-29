@@ -29,7 +29,7 @@
 
 </br>
 
----
+--
 
 </br>
 <h2 align="center"> 📊 GitHub Stats: </h2>
@@ -37,8 +37,7 @@
 |    |            |
 |----------|:-------------:|
 | ![](https://github-readme-stats.vercel.app/api?username=aariyanapu&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true) |  ![](https://github-readme-streak-stats.herokuapp.com/?user=aariyanapu&theme=material-palenight&hide_border=false) |
-| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aariyanapu&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&layout=compact) | [![Aariyan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aariyanapu&show_icons=true&theme=material-palenight&hide_border=false)]
- |
+|![](https://github-readme-stats.vercel.app/api/top-langs/?username=aariyanapu&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&layout=compact) | ![Aariyan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aariyanapu&show_icons=true&theme=material-palenight&hide_border=false) |
 
 ---
 </br>
@@ -53,6 +52,7 @@
 ---
 
 <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31tn6riohy27abhahkklkxmaigbu&cover_image=true&theme=novatorem&show_offline=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31tn6riohy27abhahkklkxmaigbu&redirect=true) -->
+
 
 
 | ![Spotify Recent Playlist](https://spotify-recently-played-readme.vercel.app/api?user=31tn6riohy27abhahkklkxmaigbu) |  <a href="https://app.daily.dev/aariyanapu"><img src="https://api.daily.dev/devcards/9765e7151f4a4163a3aa26a1c1b5c469.png?r=1nz" width="240" alt="Aariyan Apu's Dev Card"/></a> | 
