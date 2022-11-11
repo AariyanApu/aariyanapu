@@ -18,7 +18,8 @@
 - 📫 How to reach me **aariyan.apu@gmail.com**
 
 </br>
----
+
+---------
 </br>
 <h2 align="center"> 💻 Tech Stack: </h2>
 </br>
@@ -46,7 +47,7 @@
 
 </br>
 
----
+------
 
 <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31tn6riohy27abhahkklkxmaigbu&cover_image=true&theme=novatorem&show_offline=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31tn6riohy27abhahkklkxmaigbu&redirect=true) -->
 
