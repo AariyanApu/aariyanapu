@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Tailwindui Clone](https://github.com/AariyanApu/tailwindui-clone.git)
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [https://aariyanapu.com](https://aariyanapu.com)
 
