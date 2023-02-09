@@ -49,11 +49,14 @@
 </br>
 
 ---
+<div align="center">
 
 | <a href="https://app.daily.dev/aariyanapu"><img src="https://api.daily.dev/devcards/9765e7151f4a4163a3aa26a1c1b5c469.png?r=1nz" width="315" alt="Aariyan Apu's Dev Card"/></a> | <div align="center"></br><a  href="https://github.com/johannchopin/stackoverflow-readme-profile"> <img  src="https://stackoverflow-readme-profile.johannchopin.fr/profile/12180960?theme=dark&website=true&location=true" alt="user:12180960's SO profile"> </a><p ><a  href="https://wakatime.com/@06e2a330-5ed7-4bd7-a10d-a94296f5fc61"><img  src="https://wakatime.com/badge/user/06e2a330-5ed7-4bd7-a10d-a94296f5fc61.svg" alt="Total time coded since Aug 28 2022" /></a></p> <p > <a href="https://visitcount.itsvg.in" target="blank"><img src="https://visitcount.itsvg.in/api?id=aariyanapu&icon=0&color=1" alt="aariyanapu" /></a></p></div>|
-| ------- | :-: |
+| ------- | ----- |
 
----
+</div>
+
+
 
 </br>
 <h2 align="center"> 🌐 I would Be glad if you knock me!  </h2>
