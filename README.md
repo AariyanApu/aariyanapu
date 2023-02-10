@@ -96,9 +96,9 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ```
 
 
-**Timeline**
+<!-- **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/AariyanApu/AariyanApu/main/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/AariyanApu/AariyanApu/main/charts/bar_graph.png)  -->
 
 
 <!--END_SECTION:waka-->
