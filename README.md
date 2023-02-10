@@ -51,7 +51,7 @@
 ---
 <div align="center">
 
-| <a href="https://app.daily.dev/aariyanapu"><img src="https://api.daily.dev/devcards/9765e7151f4a4163a3aa26a1c1b5c469.png?r=1nz" width="315" alt="Aariyan Apu's Dev Card"/></a> | <div align="center"></br><a  href="https://github.com/johannchopin/stackoverflow-readme-profile"> <img  src="https://stackoverflow-readme-profile.johannchopin.fr/profile/12180960?theme=dark&website=true&location=true" alt="user:12180960's SO profile"> </a><p ><a  href="https://wakatime.com/@06e2a330-5ed7-4bd7-a10d-a94296f5fc61"><img  src="https://wakatime.com/badge/user/06e2a330-5ed7-4bd7-a10d-a94296f5fc61.svg" alt="Total time coded since Aug 28 2022" /></a></p> <p > <a href="https://visitcount.itsvg.in" target="blank"><img src="https://visitcount.itsvg.in/api?id=aariyanapu&icon=0&color=1" alt="aariyanapu" /></a></p></div>|
+| <a href="https://app.daily.dev/aariyanapu"><img src="https://api.daily.dev/devcards/9765e7151f4a4163a3aa26a1c1b5c469.png?r=1nz" width="315" alt="Aariyan Apu's Dev Card"/></a> | <div></br><a  href="https://github.com/johannchopin/stackoverflow-readme-profile"> <img  src="https://stackoverflow-readme-profile.johannchopin.fr/profile/12180960?theme=dark&website=true&location=true" alt="user:12180960's SO profile"> </a><p ><a  href="https://wakatime.com/@06e2a330-5ed7-4bd7-a10d-a94296f5fc61"><img  src="https://wakatime.com/badge/user/06e2a330-5ed7-4bd7-a10d-a94296f5fc61.svg" alt="Total time coded since Aug 28 2022" /></a></p> <p > <a href="https://visitcount.itsvg.in" target="blank"><img src="https://visitcount.itsvg.in/api?id=aariyanapu&icon=0&color=1" alt="aariyanapu" /></a></p></div>|
 | ------- | ----- |
 
 </div>
@@ -59,16 +59,14 @@
 
 
 </br>
-<h2 align="center"> 🌐 I would Be glad if you knock me!  </h2>
+<h2 align="center"> 🌐 It would be awesome talk to you!  </h2>
 
 |     |    |
 | ------------ | :-------------------: |
 | <a href="https://twitter.com/aariyanapu" target="blank"><img src="https://img.shields.io/twitter/follow/aariyanapu?logo=twitter&style=for-the-badge" alt="aariyanapu" /></a> | [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/aariyan.apu) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aariyan.apu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aariyanapu) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Aariyan-Apu) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12180960) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/aariyanapu) |
 
 ---
-<!-- Donation Box
-<h2 align="center">💰 You can help me by Donating</h2>
-  <p align="center" ><a href="https://www.buymeacoffee.com/aariyanapu"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aariyanapu" /></a></p> -->
+
 
 <div align="center">
 <h2> I am obsessive with : </div>
@@ -77,11 +75,14 @@
   <img src="https://www.data-card-for-spotify.com/api/card?user_id=31tn6riohy27abhahkklkxmaigbu" alt="Data Card for Spotify">
 </a>
 
-<!-- Alternative Spotify -->
 
-<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31tn6riohy27abhahkklkxmaigbu&cover_image=true&theme=novatorem&show_offline=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31tn6riohy27abhahkklkxmaigbu&redirect=true) -->
-
-<!--  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31tn6riohy27abhahkklkxmaigbu&cover_image=true&theme=default&show_offline=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31tn6riohy27abhahkklkxmaigbu&redirect=true)  -->
-
-<!-- /   ![Spotify Recent Playlist](https://spotify-recently-played-readme.vercel.app/api?user=31tn6riohy27abhahkklkxmaigbu)  -->
 </div>
+
+---
+
+<!--START_SECTION:waka-->
+
+
+<!--END_SECTION:waka-->
+
+
