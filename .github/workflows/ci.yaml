@@ -24,3 +24,4 @@ jobs:
           SHOW_EDITORS: "False"
           SHOW_UPDATED_DATE: "False"
           SHOW_TIMELINE: "False"
+          SHOW_LOC_CHART: "False"
