@@ -46,7 +46,7 @@
 
 
 <br/>
-<h2 align="center"> Some Info abut my Coding Life </h2>
+<h2 align="center"> Some Info about my Coding Life </h2>
 <p > <a href="https://visitcount.itsvg.in" target="blank"><img src="https://visitcount.itsvg.in/api?id=aariyanapu&icon=0&color=1" alt="aariyanapu" /></a></p>
 
 <!--START_SECTION:waka-->
