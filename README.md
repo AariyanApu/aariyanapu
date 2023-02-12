@@ -1,6 +1,5 @@
 <div align="center"> <img align="center" src="./github-header-image.png" alt="header"/> </div>
 
-<!-- <h3 align="center">Web Developer || Programmer || Freelancer</h3> -->
 
 <!--  Profile Information  -->
 </br>
@@ -35,8 +34,7 @@
 
 |       |        |
 | -------------------- | :-----------------------: |
-| ![](https://github-readme-stats.vercel.app/api?username=aariyanapu&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true)                           |                        ![](https://github-readme-streak-stats.herokuapp.com/?user=aariyanapu&theme=material-palenight&hide_border=false)                        |
-| 
+| ![](https://github-readme-stats.vercel.app/api?username=aariyanapu&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true)                           |                        ![](https://github-readme-streak-stats.herokuapp.com/?user=aariyanapu&theme=material-palenight&hide_border=false)                        | 
 
 
 
