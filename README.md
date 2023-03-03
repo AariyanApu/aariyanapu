@@ -23,7 +23,10 @@
 <h2 align="center"> 💻 Tech Stack: </h2>
 </br>
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=material-ui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=flat&logo=babel&logoColor=black) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+<p align='center'>
+
+ <img src="https://skillicons.dev/icons?i=nextjs,mongodb,express,react,nodejs,redux,tailwind,materialui,bootstrap,vite,ts,html,css,js,jquery" />
+</p>
 
 </br>
 
@@ -34,7 +37,7 @@
 
 |       |        |
 | -------------------- | :-----------------------: |
-| ![](https://github-readme-stats.vercel.app/api?username=aariyanapu&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true)                           |                        ![](https://github-readme-streak-stats.herokuapp.com/?user=aariyanapu&theme=material-palenight&hide_border=false)                        | 
+| ![](https://github-readme-stats.vercel.app/api?username=aariyanapu&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true)                           |                        ![](https://github-readme-streak-stats.herokuapp.com/?user=aariyanapu&theme=material-palenight&hide_border=false)                        |
 
 
 
@@ -52,41 +55,41 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-833.6%20thousand%20lines%20of%20code-blue)
 
-**I'm a Night 🦉** 
+**I'm a Night 🦉**
 
 ```text
-🌞 Morning                35 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
-🌆 Daytime                97 commits          █████░░░░░░░░░░░░░░░░░░░░   21.51 % 
-🌃 Evening                185 commits         ██████████░░░░░░░░░░░░░░░   41.02 % 
-🌙 Night                  134 commits         ███████░░░░░░░░░░░░░░░░░░   29.71 % 
+🌞 Morning                35 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 %
+🌆 Daytime                97 commits          █████░░░░░░░░░░░░░░░░░░░░   21.51 %
+🌃 Evening                185 commits         ██████████░░░░░░░░░░░░░░░   41.02 %
+🌙 Night                  134 commits         ███████░░░░░░░░░░░░░░░░░░   29.71 %
 ```
-📅 **I'm Most Productive on Saturday** 
+📅 **I'm Most Productive on Saturday**
 
 ```text
-Monday                   50 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
-Tuesday                  53 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
-Wednesday                49 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
-Thursday                 96 commits          █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
-Friday                   60 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
-Saturday                 97 commits          █████░░░░░░░░░░░░░░░░░░░░   21.51 % 
-Sunday                   46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💻 Operating System: 
-Linux                    20 hrs 1 min        █████████████████████████   100.00 % 
+Monday                   50 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.09 %
+Tuesday                  53 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.75 %
+Wednesday                49 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.86 %
+Thursday                 96 commits          █████░░░░░░░░░░░░░░░░░░░░   21.29 %
+Friday                   60 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.30 %
+Saturday                 97 commits          █████░░░░░░░░░░░░░░░░░░░░   21.51 %
+Sunday                   46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.20 %
 ```
 
-**I Mostly Code in JavaScript** 
+
+📊 **This Week I Spent My Time On**
 
 ```text
-JavaScript               24 repos            ███████████████░░░░░░░░░░   61.54 % 
-HTML                     12 repos            ████████░░░░░░░░░░░░░░░░░   30.77 % 
-EJS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+💻 Operating System:
+Linux                    20 hrs 1 min        █████████████████████████   100.00 %
+```
+
+**I Mostly Code in JavaScript**
+
+```text
+JavaScript               24 repos            ███████████████░░░░░░░░░░   61.54 %
+HTML                     12 repos            ████████░░░░░░░░░░░░░░░░░   30.77 %
+EJS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
 ```
 
 
