@@ -51,7 +51,7 @@
 <p > <a href="https://visitcount.itsvg.in" target="blank"><img src="https://visitcount.itsvg.in/api?id=aariyanapu&icon=0&color=1" alt="aariyanapu" /></a></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-817%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-818%20hrs%2048%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
@@ -80,8 +80,8 @@ Sunday                   140 commits         ███░░░░░░░░�
 
 ```text
 💻 Operating System: 
-Unknown OS               3 hrs 26 mins       ████████████████████░░░░░   80.38 % 
-Linux                    50 mins             █████░░░░░░░░░░░░░░░░░░░░   19.62 % 
+Unknown OS               4 hrs 14 mins       ███████████████████░░░░░░   74.01 % 
+Linux                    1 hr 29 mins        ██████░░░░░░░░░░░░░░░░░░░   25.99 % 
 ```
 
 **I Mostly Code in JavaScript** 
