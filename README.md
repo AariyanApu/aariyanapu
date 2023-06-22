@@ -124,7 +124,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 </br>
-<h2 align="center"> 🌐 It would be awesome talk to you!  </h2>
+<h2 align="center"> 🌐 It would be awesome to talk to you!  </h2>
 
 |     |    |
 | ------------ | :-------------------: |
