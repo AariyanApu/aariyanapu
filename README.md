@@ -42,56 +42,52 @@
 <h2 align="center"> Some Info about my Coding Life </h2>
 <p > <a href="https://visitcount.itsvg.in" target="blank"><img src="https://visitcount.itsvg.in/api?id=aariyanapu&icon=0&color=1" alt="aariyanapu" /></a></p>
 
+[![wakatime](https://wakatime.com/badge/user/06e2a330-5ed7-4bd7-a10d-a94296f5fc61.svg)](https://wakatime.com/@06e2a330-5ed7-4bd7-a10d-a94296f5fc61)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
+
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C015%20hrs%207%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.4%20million%20lines%20of%20code-blue)
-
-**I'm a Night 🦉** 
+**I'm a Night 🦉**
 
 ```text
-🌞 Morning                120 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
-🌆 Daytime                257 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
-🌃 Evening                576 commits         █████████░░░░░░░░░░░░░░░░   37.80 % 
-🌙 Night                  571 commits         █████████░░░░░░░░░░░░░░░░   37.47 % 
+🌞 Morning                120 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 %
+🌆 Daytime                257 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.86 %
+🌃 Evening                576 commits         █████████░░░░░░░░░░░░░░░░   37.80 %
+🌙 Night                  571 commits         █████████░░░░░░░░░░░░░░░░   37.47 %
 ```
-📅 **I'm Most Productive on Saturday** 
+
+📅 **I'm Most Productive on Saturday**
 
 ```text
-Monday                   165 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
-Tuesday                  145 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
-Wednesday                229 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
-Thursday                 301 commits         █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
-Friday                   209 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
-Saturday                 324 commits         █████░░░░░░░░░░░░░░░░░░░░   21.26 % 
-Sunday                   151 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
+Monday                   165 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.83 %
+Tuesday                  145 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 %
+Wednesday                229 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.03 %
+Thursday                 301 commits         █████░░░░░░░░░░░░░░░░░░░░   19.75 %
+Friday                   209 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.71 %
+Saturday                 324 commits         █████░░░░░░░░░░░░░░░░░░░░   21.26 %
+Sunday                   151 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
-💻 Operating System: 
-Linux                    31 hrs 10 mins      █████████████████████████   100.00 % 
+💻 Operating System:
+Linux                    31 hrs 10 mins      █████████████████████████   100.00 %
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in JavaScript**
 
 ```text
-JavaScript               29 repos            ████████████████░░░░░░░░░   64.44 % 
-HTML                     13 repos            ███████░░░░░░░░░░░░░░░░░░   28.89 % 
-EJS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+JavaScript               29 repos            ████████████████░░░░░░░░░   64.44 %
+HTML                     13 repos            ███████░░░░░░░░░░░░░░░░░░   28.89 %
+EJS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 %
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
 ```
-
-
-
 
 <!--END_SECTION:waka-->
 
 <!-- Activity Graph  -->
-
-[![Aariyan Apu's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AariyanApu&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
 
@@ -103,8 +99,8 @@ CSS                      1 repo              █░░░░░░░░░░�
 <div align="center">
 <h2> I am obsess with : </div>
 
-<a href="https://www.data-card-for-spotify.com/card?user_id=31tn6riohy27abhahkklkxmaigbu">
-  <img src="https://www.data-card-for-spotify.com/api/card?user_id=31tn6riohy27abhahkklkxmaigbu" alt="Data Card for Spotify">
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31tn6riohy27abhahkklkxmaigbu">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31tn6riohy27abhahkklkxmaigbu" alt="Data Card for Spotify">
 </a>
 
 </div>
