@@ -1,14 +1,12 @@
-<div align="center"> <img align="center" src="./github-header-image.png" alt="header"/> </div>
-
-<!--  Profile Information  -->
-</br>
-</br>
+<p align="center"> <img src="https://github-widgetbox.vercel.app/api/profile?username=aariyanapu&data=followers,repositories,stars,commits&theme=nautilus"  alt="github stats" /> </p>
 
 - 🔭 I’m currently working on [FawFlix (A NetFlix Clone )](https://fawflix.vercel.app/)
 
 - 🌱 I’m currently learning **PostgreSQL**
 
-- 👨‍💻 All of my projects are available at [https://aariyanapu.com](https://aariyanapu.com)
+- 🌏 My Personal website [aariyanapu.com](https://aariyanapu.com/)
+
+- 👨‍💻 All of my projects are available at [Project Archive](https://www.aariyanapu.com/archive)
 
 - 💬 Ask me about **MERN, Next.js, TypeScript**
 
@@ -24,7 +22,9 @@
 
 <p align='center'>
 
- <img src="https://skillicons.dev/icons?i=nextjs,mongodb,express,react,nodejs,redux,tailwind,materialui,bootstrap,vite,ts,js,docker,git,neovim" />
+<img src="https://skillicons.dev/icons?i=nextjs,vite,react,redux,tailwind,materialui,sass,bootstrap,ts,js,express,nodejs,mongodb,postgres,prisma,redis,html,css,jquery,md,linux,git,docker,github,babel,bash,neovim,vim,ps,postman"
+ alt="Nextjs" />
+
 </p>
 
 </br>
@@ -40,56 +40,49 @@
 
 <br/>
 <h2 align="center"> Some Info about my Coding Life </h2>
-<p > <a href="https://visitcount.itsvg.in" target="blank"><img src="https://visitcount.itsvg.in/api?id=aariyanapu&icon=0&color=1" alt="aariyanapu" /></a></p>
-
-[![wakatime](https://wakatime.com/badge/user/06e2a330-5ed7-4bd7-a10d-a94296f5fc61.svg)](https://wakatime.com/@06e2a330-5ed7-4bd7-a10d-a94296f5fc61)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C056%20hrs%2037%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.4%20million%20lines%20of%20code-blue)
 
-**I'm a Night 🦉** 
+**I'm a Night 🦉**
 
 ```text
-🌞 Morning                120 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
-🌆 Daytime                273 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
-🌃 Evening                605 commits         █████████░░░░░░░░░░░░░░░░   36.40 % 
-🌙 Night                  664 commits         ██████████░░░░░░░░░░░░░░░   39.95 % 
+🌞 Morning                120 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 %
+🌆 Daytime                273 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.43 %
+🌃 Evening                605 commits         █████████░░░░░░░░░░░░░░░░   36.40 %
+🌙 Night                  664 commits         ██████████░░░░░░░░░░░░░░░   39.95 %
 ```
-📅 **I'm Most Productive on Saturday** 
+
+📅 **I'm Most Productive on Saturday**
 
 ```text
-Monday                   180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
-Tuesday                  160 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
-Wednesday                270 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
-Thursday                 331 commits         █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
-Friday                   220 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
-Saturday                 336 commits         █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
-Sunday                   165 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
+Monday                   180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.83 %
+Tuesday                  160 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 %
+Wednesday                270 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.25 %
+Thursday                 331 commits         █████░░░░░░░░░░░░░░░░░░░░   19.92 %
+Friday                   220 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.24 %
+Saturday                 336 commits         █████░░░░░░░░░░░░░░░░░░░░   20.22 %
+Sunday                   165 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
-💻 Operating System: 
-Linux                    21 hrs 27 mins      █████████████████████████   100.00 % 
+💻 Operating System:
+Linux                    21 hrs 27 mins      █████████████████████████   100.00 %
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in JavaScript**
 
 ```text
-JavaScript               29 repos            ████████████████░░░░░░░░░   64.44 % 
-HTML                     13 repos            ███████░░░░░░░░░░░░░░░░░░   28.89 % 
-EJS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+JavaScript               29 repos            ████████████████░░░░░░░░░   64.44 %
+HTML                     13 repos            ███████░░░░░░░░░░░░░░░░░░   28.89 %
+EJS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 %
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
 ```
-
-
-
 
 <!--END_SECTION:waka-->
 
