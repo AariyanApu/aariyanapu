@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://github-widgetbox.vercel.app/api/profile?username=aariyanapu&data=followers,repositories,stars,commits&theme=nautilus"  alt="github stats" /> </p>
 
-- 🔭 I’m currently working on [FawFlix (A NetFlix Clone )](https://fawflix.vercel.app/)
+- 🔭 I’m currently working on [FawFlix (A Movie Streaming Platform)](https://fawflix.vercel.app/)
 
 - 🌱 I’m currently learning **PostgreSQL**
 
