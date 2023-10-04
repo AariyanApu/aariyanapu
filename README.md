@@ -44,7 +44,7 @@
 <h2 align="center"> Some Info about my Coding Life </h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C354%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C356%20hrs%2035%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
 
@@ -73,7 +73,7 @@ Sunday                   215 commits         ███░░░░░░░░�
 
 ```text
 💻 Operating System: 
-Linux                    6 hrs 36 mins       █████████████████████████   100.00 % 
+Linux                    8 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
