@@ -44,6 +44,8 @@
 <h2 align="center"> Some Info about my Coding Life </h2>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C967%20hrs%2030%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.6%20million%20lines%20of%20code-blue)
@@ -52,12 +54,48 @@
 
 > 📦 251.4 kB Used in GitHub's Storage 
  > 
+> 🏆 386 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 6 Public Repositories 
  > 
 > 🔑 46 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                310 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+🌆 Daytime                1930 commits        █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
+🌃 Evening                4367 commits        ███████████░░░░░░░░░░░░░░   44.62 % 
+🌙 Night                  3181 commits        ████████░░░░░░░░░░░░░░░░░   32.50 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   979 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Tuesday                  1645 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
+Wednesday                1138 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+Thursday                 1190 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+Friday                   1144 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
+Saturday                 2019 commits        █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
+Sunday                   1673 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Markdown                 52 mins             █████████████████████████   100.00 % 
+
+🔥 Editors: 
+Obsidian                 52 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    52 mins             █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
