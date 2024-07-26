@@ -54,8 +54,6 @@
 
 > 📦 251.4 kB Used in GitHub's Storage 
  > 
-> 🏆 386 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 6 Public Repositories 
@@ -87,13 +85,13 @@ Sunday                   1673 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 52 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Obsidian                 52 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    52 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
