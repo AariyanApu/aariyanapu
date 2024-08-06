@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **PostgreSQL**
 
-- 🌏 My Personal website [aariyanapu.com](https://aariyanapu.com/)
+- 🌏 My website [aariyan.info](https://aariyan.info/)
 
 - 👨‍💻 All of my projects are available at [Project Archive](https://www.aariyanapu.com/archive)
 
