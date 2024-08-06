@@ -8,7 +8,7 @@
 
 - 🌏 My website [aariyan.info](https://aariyan.info/)
 
-- 👨‍💻 All of my projects are available at [Project Archive](https://www.aariyanapu.com/archive)
+- 👨‍💻 All of my projects are available at [Project Archive](https://www.aariyan.info/archive)
 
 - 💬 Ask me about **MERN, Next.js, TypeScript**
 
