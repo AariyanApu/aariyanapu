@@ -1,4 +1,4 @@
-![An Image of Aariyan Apu](banner.png)
+![An Image of Aariyan Apu](banner.webp)
 [![An image of @aariyanapu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aariyanapu)](https://holopin.io/@aariyanapu)
 
 <p align="center"> <img src="https://github-widgetbox.vercel.app/api/profile?username=aariyanapu&data=followers,repositories,stars,commits&theme=nautilus"  alt="github stats" /> </p>
