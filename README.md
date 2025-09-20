@@ -1,48 +1,39 @@
+# Aariyan Apu
+
 ![An Image of Aariyan Apu](banner.webp)
+
 [![An image of @aariyanapu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aariyanapu)](https://holopin.io/@aariyanapu)
 
-<p align="center"> <img src="https://github-widgetbox.vercel.app/api/profile?username=aariyanapu&data=followers,repositories,stars,commits&theme=nautilus"  alt="github stats" /> </p>
+<div align="center">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=aariyanapu&data=followers,repositories,stars,commits&theme=nautilus" alt="github stats" />
+</div>
+
+## Quick Facts
 
 - 🔭 I’m currently working on [Ahar](https://ahar.com.bd/)
-
 - 🌱 I’m currently learning **React Native**
-
 - 🌏 My website [aariyan.info](https://aariyan.info/)
-
 - 👨‍💻 All of my projects are available at [Project Archive](https://www.aariyan.info/archive)
-
 - 💬 Ask me about **MERN, Next.js, TypeScript**
-
-- 📫 How to reach me **aariyan.apu@gmail.com**
-
-</br>
+- 📫 Reach me at **<aariyan.apu@gmail.com>**
 
 ---
 
-</br>
-<h2 align="center"> 💻 Tech Stack: </h2>
-</br>
+## 💻 Tech Stack
 
-<p align='center'>
-
-<img src="https://skillicons.dev/icons?i=nextjs,vite,react,redux,tailwind,materialui,sass,bootstrap,ts,js,express,nodejs,mongodb,postgres,prisma,redis,html,css,jquery,md,linux,git,docker,github,babel,bash,neovim,vim,ps,postman"
- alt="Nextjs" />
-
-</p>
-
-</br>
+<div align="center">a
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,nestjs,redux,tailwind,css,aws,docker,kubernetes,githubactions,gitlab,github,git,postgres,mongodb,redis,prisma,postman,vite,bun,babel,linux,bash,md,neovim,figma" alt="Tech stack icons" />
+</div>
 
 ---
 
-</br>
-<h2 align="center"> 📊 GitHub Stats: </h2>
+## 📊 GitHub Stats
 
 |                                                                                                                                                            |                                                                                                                   |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------: |
 | ![](https://github-readme-stats.vercel.app/api?username=aariyanapu&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true) | ![](https://github-readme-streak-stats.herokuapp.com/?user=aariyanapu&theme=material-palenight&hide_border=false) |
 
-<br/>
-<h2 align="center"> Some Info about my Coding Life </h2>
+## Some Info About My Coding Life
 
 <!--START_SECTION:waka-->
 
@@ -118,30 +109,35 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-<!-- Activity Graph  -->
+---
+
+## Activity Highlights
 
 <div align="center">
 
-| <a href="https://app.daily.dev/aariyanapu"><img src="https://api.daily.dev/devcards/9765e7151f4a4163a3aa26a1c1b5c469.png?r=1nz" width="230" alt="Aariyan Apu's Dev Card"/></a> | [![Aariyan Apu's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=12180960&theme=dark)](https://stackoverflow.com/users/12180960/aariyan-apu) |
+| <a href="https://app.daily.dev/aariyanapu"><img src="https://api.daily.dev/devcards/9765e7151f4a4163a3aa26a1c1b5c469.png?r=1nz" width="230" alt="Aariyan Apu's Dev Card" /></a> | [![Aariyan Apu's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=12180960&theme=dark)](https://stackoverflow.com/users/12180960/aariyan-apu) |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
 </div>
 
+---
+
 <div align="center">
-
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/AariyanApu"
-    width="600"
-    height="120"
-  />
-</a>
-
-
+<!-- <h2> I am obsess with : </div> -->
+<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31tn6riohy27abhahkklkxmaigbu" alt="Data Card for Spotify">
+<!-- <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31tn6riohy27abhahkklkxmaigbu"> -->
+<!-- </a> -->
 </div>
 
-</br>
-<h2 align="center"> 🌐 It would be awesome to talk to you!  </h2>
+---
+
+<div align="center">
+  <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/lines/AariyanApu" width="600" height="120" alt="GitAnimals" />
+  </a>
+</div>
+
+## 🌐 Let's Connect
 
 |                                                                                                                                                                              |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
