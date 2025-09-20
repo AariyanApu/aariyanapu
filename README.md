@@ -10,7 +10,7 @@
 
 ## Quick Facts
 
-- 🔭 I’m currently working on [Ahar](https://ahar.com.bd/)
+- 🔭 I’m currently working on [First Aid Surgical](http://firstaidsurgical.com/)
 - 🌱 I’m currently learning **React Native**
 - 🌏 My website [aariyan.info](https://aariyan.info/)
 - 👨‍💻 All of my projects are available at [Project Archive](https://www.aariyan.info/archive)
@@ -21,7 +21,7 @@
 
 ## 💻 Tech Stack
 
-<div align="center">a
+<div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,nestjs,redux,tailwind,css,aws,docker,kubernetes,githubactions,gitlab,github,git,postgres,mongodb,redis,prisma,postman,vite,bun,babel,linux,bash,md,neovim,figma" alt="Tech stack icons" />
 </div>
 
